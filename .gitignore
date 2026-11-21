@@ -1,0 +1,17 @@
+# PlatformIO build output
+.pio/
+build/
+*.d
+*.o
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Editors and tooling
+.vscode/
+.idea/
+.cache/
+*.swp
+.DS_Store

@@ -1,0 +1,12 @@
+Waveshare ESP32-S3 4.2" RLCD MultiBoot Loader
+Copyright (c) 2026 Kamil Brokowski (v3n0m3n0)
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This project incorporates open-source libraries:
+- U8g2 Library (c) 2016-2024 Oliver Kraus (BSD 2-Clause License)
+- ArduinoJson (c) 2014-2024 Benoit Blanchon (MIT License)
+- Arduino Core for ESP32 (c) Espressif Systems (Apache 2.0 License)
